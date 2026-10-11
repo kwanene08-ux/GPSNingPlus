@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/kwanene08-ux/GPSNingPlus/releases/download/v1.0.1/GPSNingPlus-1.0.1-debug.apk",
-  "sha256": "564e961ae99c1b717d985456548c305c51ac349e2d25f51c7bf5951030079452",
-  "releaseNotes": "ปรับปรุงระบบตรวจสอบและดาวน์โหลดอัปเดต พร้อมตรวจสอบ SHA-256 ก่อนติดตั้ง"
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/kwanene08-ux/GPSNingPlus/releases/download/v1.0.2/GPSNingPlus-1.0.2-debug.apk",
+  "sha256": "c4da8a48063ee11456fd17539f7a8bcd1f16ff8aca58e9bed7d2a93e2d70aec3",
+  "releaseNotes": "แยกข้อมูล GPS ดาวเทียมจากตำแหน่งเครือข่าย พร้อมแสดงความแม่นยำและอายุข้อมูลตำแหน่งล่าสุด"
 }
