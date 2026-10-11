@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/kwanene08-ux/GPSNingPlus/releases/download/v1.0.3/GPSNingPlus-1.0.3-debug.apk",
-  "sha256": "f8b91dbaf4cf933dfc22a49413d4a52620eeded72c42e8c9d4e430d5f1c0e0b6",
-  "releaseNotes": "ปรับปรุงระบบอัปเดตแอปและการเปิดหน้าติดตั้ง APK"
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/kwanene08-ux/GPSNingPlus/releases/download/v1.0.6/GPSNingPlus-1.0.6-debug.apk",
+  "sha256": "7be1df2f18956d64b5e95472f5a24c6e2ba943186d498696193cd47c4f82efbb",
+  "releaseNotes": "ปรับปรุงการเปิดหน้าติดตั้ง APK จากระบบอัปเดตในแอป"
 }
