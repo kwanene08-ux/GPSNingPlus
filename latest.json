@@ -1,7 +1,1 @@
-{
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "apkUrl": "https://github.com/kwanene08-ux/GPSNingPlus/releases/download/v1.0.7/GPSNingPlus-1.0.7-debug.apk",
-  "sha256": "7fef8a621aa84c141847cec169f571bf2a96b25ef89df106b9f85321aee76568",
-  "releaseNotes": "ปรับข้อความสถานะให้แสดงเวอร์ชันจริง เพิ่มหมายเลขเวอร์ชันปัจจุบันในหมายเหตุ และปรับปรุงระบบอัปเดต"
-}
+{"versionCode": 10, "versionName": "1.0.9", "apkUrl": "https://github.com/kwanene08-ux/GPSNingPlus/releases/download/v1.0.9/GPSNingPlus-1.0.9-debug.apk", "sha256": "e0d154c34334e67a0fc1b2217011c2868cf4dfdda8df3fc5c3658587a304381f", "releaseNotes": "ปรับปรุง GPS Tracking Service ตรวจจับตำแหน่งค้างและเริ่มติดตามใหม่เมื่อพบปัญหาต่อเนื่อง"}
